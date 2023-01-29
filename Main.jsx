@@ -32,7 +32,7 @@ export default function Main() {
   return (
     <View>
       {
-        (window === 'cart') ?
+        (window === 'shopping cart') ?
           <View style={ styles.cart_container }>
             <StatusBar
             backgroundColor={'#F4F6F8'}/>
