@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "id": "coca0001",
+      "item_name": "Coca Cola 3L",
+      "short_description": "3 Litros",
+      "quantity": 2,
+      "price_without_tax": 38.36,
+      "tax": 6.14,
+      "shipping_fee": 0,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750105530474L1.jpg"
+    },
+    {
+      "id": "limon0001",
+      "item_name": "Limón Agrio",
+      "short_description": "Limon en malla 1kg",
+      "quantity": 1,
+      "price_without_tax": 25.77,
+      "tax": 3.23,
+      "shipping_fee": 0,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00000000004306L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "ipad0001",
+      "item_name": "iPad Apple 10.2\"",
+      "short_description": "64 GB con Wifi - Gris Espacial",
+      "quantity": 3,
+      "price_without_tax": 6896,
+      "tax": 1103,
+      "shipping_fee": 0,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00019425251566L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "mac0001",
+      "item_name": "MacBook Air Apple",
+      "short_description": "MGN63LA/A M1 8GB RAM 256GB SSD",
+      "quantity": 4,
+      "price_without_tax": 17240,
+      "tax": 2759,
+      "shipping_fee": 90,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00019425242582L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "bronco0001",
+      "item_name": "Jarabe Broncolin",
+      "short_description": "Etiqueta verde 140 ml",
+      "quantity": 4,
+      "price_without_tax": 60.34,
+      "tax": 9.66,
+      "shipping_fee": 10,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00071470691060L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "arra0001",
+      "item_name": "Arrachera de res SuKarne",
+      "short_description": "Marinada ligera 600 g",
+      "quantity": 4,
+      "price_without_tax": 154.3,
+      "tax": 24.7,
+      "shipping_fee": 0,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00750129350054L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "pringles0001",
+      "item_name": "Papas Pringles",
+      "short_description": "Crema y cebolla 40gr",
+      "quantity": 4,
+      "price_without_tax": 19.82,
+      "tax": 3.18,
+      "shipping_fee": 0,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00003800084674L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    },
+    {
+      "id": "gorro0001",
+      "item_name": "Gorro George",
+      "short_description": "Acanalado Rosa",
+      "quantity": 4,
+      "price_without_tax": 77.6,
+      "tax": 1.16,
+      "shipping_fee": 13,
+      "url": "https://res.cloudinary.com/walmart-labs/image/upload/d_default.jpg/w_960,dpr_auto,f_auto,q_auto:best/gr/images/product-images/img_large/00697514258022L.jpg?odnHeight=612&odnWidth=612&odnBg=FFFFFF"
+    }
+  ]
+}
