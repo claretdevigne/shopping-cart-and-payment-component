@@ -8,7 +8,15 @@ Para ejecutar este proyecto, siga estos pasos:
 - Acceda a la carpeta del proyecto en la terminal.
 - Ejecute el comando npm start.
 - Abra la aplicación Expo Client en su dispositivo móvil y escanee el código QR que aparece en la pantalla.
-- Si no desea usar Expo Client, puede instalar los archivos apk, aab que se encuentran en el archivo comprimido.
+- Si no desea usar Expo Client y tiene un dispositivo android puede instalar el archivos apk, descargandolo en el siguiente [link](https://expo.dev/artifacts/eas/fbCSkCKJZe2uSRHHmBy5FB.apk).
+
+### Instrucciones de instalación del APK en Android
+- Descargue el apk desde el [link](https://expo.dev/artifacts/eas/fbCSkCKJZe2uSRHHmBy5FB.apk).
+- Active la opción de origenes desconocidos.
+- Tal vez aparezca la ventana de Play Protect, seleccione instalar de todos modos.
+- Le preguntará si desea instalar la app, seleccione la opción de instalar.
+- Una vez finalizado seleccione abrir.
+- Ya puede utillizar la prueba de la aplicación.
 
 ## Características
 - Se utilizó React Native para el desarrollo de la aplicación.
