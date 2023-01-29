@@ -304,8 +304,8 @@ const styles = StyleSheet.create({
   },
   payment_container_card_number_container_input: { 
     color: 'white', 
-    fontWeight: '600', 
-    width: '50%' 
+    fontWeight: '600',
+    width: '60%' 
   },
   payment_container_card_number_container_card_company_container: { 
     backgroundColor: '#71B8FF', 

@@ -43,7 +43,7 @@ const initialState = {
    *  @default - Por defecto está en "shopping cart".
    *  @description - Estado para gestionar cuál ventana renderizar.
    */
-  window: 'shopping cart',
+  window: 'cart',
   /**
    *  removeAll
    *  @type {Boolean} - Booleano que define si fueron eliminado todos los elementos del shopping cart.
